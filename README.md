@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It's built using [react-chatbot-kit](https://github.com/FredrikOseberg/react-chatbot-kit).
 
 ## Available Scripts
 
